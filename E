@@ -1,0 +1,23 @@
+AU count: 169
+
+
+[Earthbound], [Earthtale], [Echostretch], [Echoeddreams], [Echofell], [Echo!Sans], [Echotale], [Echotale (Gaster!Sans)], [Eclipsetale], [Ecto!Sans],
+[Eddstale], [Edenverse], [Edeztale], [Egypttale], [elatrednU], [Electrictale], [Electrotale], [Element-tale], [Elementale], [Elementaletale (2: Hawkmask101)],
+[Elementaltale (3: Reyindee)], [Elementalɇ], [Elementtale], [Elemtale], [Embodiment of Undertale], [Emoswap], [Emotale], [Emotiontale], [Empireverse],
+[Emptytale], [Enchanted realities], [Enchantedtale], [Encrypttale], [Endertale], [Endless Breath], [Endless Route], [Endtale], [Enemyswap], [Enemytale],
+[Energytale], [Engietale], [Ennucediafell], [Ennucediatale], [Entropytale], [Entrytale], [Epic Anti-Error!Sans], [EpicDust], [EpicEpicDust],
+[EpicEpicEpicDust], [EpicEpicEpicEpicDust], [5EpicDust], [6EpicDust], [7EpicDust], [8EpicDust], [9EpicDust], [10EpicDust], [11EpicDust], [12EpicDust],
+[13EpicDust], [14EpicDust], [15EpicDust], [16EpicDust], [17EpicDust], [18EpicDust], [19EpicDust], [20EpicDust], [21EpicDust], [22EpicDust], [23EpicDust],
+[24EpicDust], [25EpicDust], [EpicEpicDustFell], [EpicEpicEpicDustFell], [EpicEpicEpicEpicDustFell], [5EpicDustFell], [6EpicDustFell], [7EpicDustFell],
+[8EpicDustFell], [9EpicDustFell], [10EpicDustFell], [11EpicDustFell], [12EpicDustFell], [13EpicDustFell], [14EpicDustFell], [15EpicDustFell], [16EpicDustFell],
+[17EpicDustFell], [18EpicDustFell], [19EpicDustFell], [20EpicDustFell], [21EpicDustFell], [22EpicDustFell], [23EpicDustFell], [24EpicDustFell],
+[25EpicDustFell], [EpicEpicOuterDust], [EpicEpicEpicOuterDust], [EpicEpicEpicEpicOuterDust], [5EpicOuterDust], [6EpicOuterDust], [7EpicOuterDust],
+[8EpicOuterDust], [9EpicOuterDust], [10EpicOuterDust], [11EpicOuterDust], [12EpicOuterDust], [13EpicOuterDust], [14EpicOuterDust], [15EpicOuterDust],
+[16EpicOuterDust], [17EpicOuterDust], [18EpicOuterDust], [19EpicOuterDust], [20EpicOuterDust], [21EpicOuterDust], [22EpicOuterDust], [23EpicOuterDust],
+[24EpicOuterDust], [25EpicOuterDust], [EpicFellDust], [EpicOuterDust], [Epicshift], [Epictale], [Epictale (Epic!Sans)], [Epochtale], [Equationtale],
+[Equilibriumtale], [ERDXXU!OUTERTALE], [ERDXXU!OUTERTALE (Chara, Frisk and Asriel)], [Error 339], [Error 403.1], [Error 403.2], [Error 403.3], [Error 404],
+[Error 500], [Errorcraft], [Errorcrashedtale], [ErrorDust!Sans], [ErrorDust404!Sans], [ErrorDustDust!Sans], [ErrorHorror!Dust], [ErrorKiller!Sans],
+[Error!Murder Time Trio], [Errorshift], [ErrorSponge], [ErrorSpongeSwap], [ErrorStorySwap], [ErrorStorySwap (ErrorStorySwap!Chara)], [Errortale],
+[Errortale (Error!Sans)], [Erzahlentale], [Escaping The Skeld], [Essencetale], [Eternaltale], [EUC], [Even RESET Couldn’t Save Them], [Eventuallytale],
+[Everyrune], [EverythingOther!Sans], [EX!Stack Dust Trio], [Ex Sans], [Execation], [Executive], [Exetale], [Exiletale], [Exitium], [Experiment-Undertale.Exe],
+[Experimenttale], [Extended Reality]
