@@ -1,0 +1,15 @@
+AU count: 116
+
+
+[Paint-Thinner!Sans], [Painted Plummet], [Pairswitch], [Pale and Template], [Pallette!Sans], [Papercrane], [Paperjam], [Papertale], [Papertale (2: Mr-Pengu1N)],
+[Papya!Sans], [Papyrus has gone too far], [Papyrus's Belief], [Papytale], [Paraversetale (Asterisk/ Gaster)], [Partypoopertale], [Partytale], [Pastaswap],
+[Pastatale], [Pastrytale], [Pasttale], [Patrontale], [Paxtale], [Pelotale], [Personalitytale], [Personatale], [Persontale], [Petale], [Petaltale],
+[Petrifying Educations], [Phantomstale], [Phobiatale], [Phoenixtale], [Photonegativetale], [Phototale], [PG!Underswap], [Picarto Sans], [Pickle realites],
+[Pinktale], [Pinoytale], [Piratetale], [Pitchtale], [Pixeltale], [Pjís daycare], [Plaguetale], [Planetale], [Plantale], [Play-Timetale], [Playbackfell],
+[Playbacktale], [Playertale], [Pluggedtale], [Plundertale], [Plushtale], [Pmdtale], [Pockettale], [Poketale], [Pokèsponge], [Pokètale (1)], [Pokètale (2)],
+[Pokésponge], [Pokétale], [Policetale], [Polterswap], [Poltertale], [PolyStation Chronicles], [Ponyshift], [Ponyspin], [Ponytale], [Ponytale (2)], [Poppy],
+[Popstartale], [Poptale], [Portale], [Portertale], [Portutale], [Positale], [Possessedtale], [Possibilitytale], [Postbellum], [Potatotale], [Powdertale],
+[Power of Eight], [Powertale], [Predator], [Predatortale], [Preptale], [Pretendtale], [Pretertale], [Primeval], [Primus!Underfell], [Prismtale], [Pro!Sans],
+[Proemtale], [Project Reality], [Projectortale], [Protecttale], [Protocol], [Prphecytale], [PS!Outertale], [Psychetale], [Psychopathtale], [Psychotale],
+[PTA], [Pta Undertale], [Pumpkintale], [Pun-tale], [Punktale], [Puppeteertale], [Puppettale], [Purereverse], [Pureswap], [Puretale], [Purgatale],
+[Puritale], [Puritytale], [Purple DustDust Sans]
