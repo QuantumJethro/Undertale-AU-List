@@ -1,4 +1,4 @@
-AU count: 400
+AU count: 409
 
 
 [Dadster], [Daemontale], [Daintyshift], [Daintyswap], [Daintytale], [Dancefell], [Dancelust], [Dancetale], [Dark Cream], [Darker Yet Darker], [Darkertale],
@@ -55,6 +55,14 @@ AU count: 400
 [Dustswap: Frustation and Collapse], [Dustswap: Scarlet Flare], [Dustswap: The Butterfly Effect], [Dusttale], [Dusttale (Murder!Sans & Phantom!Papyrus)],
 [Dusttale Crash Out], [Dusttale CORE encounter], [Dusttale: Don't Tell], [Dusttale: Endgoal], [Dusttale: Last Genocide], [Dusttale: Soul Piercing],
 [Dusttale: Zero Point], [Dusttrust], [Dusttrust X], [DustWindowShift], [Dystopicfate], [Dümmchentale/Dummietale]
+
+
+Not in alphabetical things (it becomes way too much work beyond this, so I'll just be doing it this way)
+
+
+[DustDust (4; notafunnyguyanymore)], [DustDustDust (4; notafunnyguyanymore)] [4Dust (4; notafunnyguyanymore)] [5Dust (4; notafunnyguyanymore],
+[6Dust (4; notafunnyguyanymore)] [7Dust (4; notafunnyguyanymore)] [8Dust (3; notafunnyguyanymore)] [9Dust (3; notafunnyguyanymore)],
+[10Dust (3; notafunnyguyanymore)]
 
 
 My AU's
