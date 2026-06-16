@@ -1,0 +1,9 @@
+AU count: 58
+
+
+[Waffletale], [Wanderertale], [WANNACRY!Sans], [Warrior's Tale], [Warriorcatstale], [Warriortale], [Wartale], [Wartime!Grillby], [Washed And Swapped Fate],
+[Water!Sans], [Watchtale], [Wave Collapse], [We Finna Box], [We Finna Stain], [Weabootale], [Webtale], [Westerntale], [Westertale], [What Are Friends For],
+[Wheel Of Fate], [Whimsical!dreamswap], [Whirlswitch], [Who Tale], [Who's Pulling the Strings], [Wholehearted Half-Souls], [Wickedtale], [WikiTale], [Wildtale],
+[Willowtale], [Willswap], [Willtale], [Willyswap], [Willytale], [Wind!Sans], [Windowshift], [WindowShiftDust], [Windowstale], [Wiptale], [Wishes!Sans],
+[Wishtale], [Witchcrafttale], [Witchtale], [Wiki!Sans], [Wikiother], [Wolftale], [Wondertale], [Wondertale (2: Unknown)], [Wondertale (3: Mintlovingkitten)],
+[Worktale], [Worldshift], [Worldtale], [Worshiptale], [Worthtale], [Woven Souls], [Woventale], [Wowtale], [Wundertale], [Wuttale]
