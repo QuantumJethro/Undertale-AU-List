@@ -1,4 +1,4 @@
-AU count: 378
+AU count: 379
 
 
 [Sa: Grounded], [Sadtale], [Sailor!Sans], [Saintale], [Sakuratale], [Sametale], [Samsaratale], [Samuraitale], [San's Ssd], [Sanfristale], [Sanrisk],
@@ -45,3 +45,9 @@ AU count: 378
 [SwapSwapSwapSwap], [SwapSwapSwapSwapSwap], [6Swap], [7Swap], [8Swap], [9Swap], [10Swap], [11Swap], [12Swap], [13Swap], [14Swap], [15Swap], [16Swap], [17Swap],
 [18Swap], [Swaptale], [Swap’nshift], [Swervedtale], [SwingTale], [Switch-A-Roo Story], [Switched Down], [Switched Spotlight], [Switched Up], [Switchedtale],
 [Switchtale], [Swordtale], [Symphonytale], [System-ErrorDust!Sans]
+
+
+Not in order
+
+
+[Swapverse/Verseswap]
