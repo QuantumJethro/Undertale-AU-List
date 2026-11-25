@@ -5,4 +5,4 @@ You take an base AU and what is added after it, is the events of that.
 As an example: Swapfell is Underswap getting fellified. Fellswap is Underfell getting swapped.
 And, this can be done with all AUs and ATs.
 
-Site link: a href="https://quantumjethro.github.io/Undertale-AU-List/
+Site link: https://quantumjethro.github.io/Undertale-AU-List/
